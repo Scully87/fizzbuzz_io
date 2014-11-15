@@ -11,3 +11,12 @@ Fizzbuzz io
 ####Technologies used:
 
 - io programming language
+
+
+Fizzbuzz in Other Languages
+---------------------------
+
+- [Fizzbuzz Ruby](https://github.com/Scully87/FizzBuzz)
+- [Fizzbuzz IO](https://github.com/Scully87/fizzbuzz_io)
+- [Fizzbuzz Javascript](https://github.com/Scully87/javabuzz)
+- [Fizzbuzz CoffeeScript](https://github.com/Scully87/coffee_script)
